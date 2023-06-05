@@ -14,6 +14,8 @@ namespace MukeshJi
 
 		//Committed by mukesh ji soyam
         public string? Summary100 { get; set; }
+		//Committed by Vijendddd ji soyam by QA branch
+        public string? Summary100 { get; set; }
 
 
     }
