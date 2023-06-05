@@ -11,5 +11,8 @@ namespace MukeshJi
         public string? Summary { get; set; }
 
         public string? Summary2 { get; set; }
+		
+	 //changes by vijendra
+		 public string? Summary100 { get; set; }
     }
 }
