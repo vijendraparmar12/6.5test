@@ -11,8 +11,10 @@ namespace MukeshJi
         public string? Summary { get; set; }
 
         public string? Summary2 { get; set; }
-		
+
 		//Committed by mukesh ji soyam
         public string? Summary100 { get; set; }
+
+
     }
 }
